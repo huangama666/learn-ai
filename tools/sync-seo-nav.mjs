@@ -18,7 +18,8 @@ const entries = part.topics.flatMap(topic => topic.lessons.map(lesson => {
   if (routes.length !== 4) item.rt = routes.join(' ');
   return '  ' + JSON.stringify(item) + ',';
 }));
-if (entries.length !== 14) throw new Error('Expected 14 SEO/GEO lessons');
+const manifest = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-geo/knowledge-map.json'), 'utf8'));
+if (entries.length !== manifest.learning_path.length) throw new Error('SEO/GEO learning path count mismatch');
 const target = path.join(slides, 'nav-inject.js');
 const text = fs.readFileSync(target, 'utf8');
 const block = '// SEO_GEO_ORDER_BEGIN — node tools/sync-seo-nav.mjs\n' + entries.join('\n') + '\n// SEO_GEO_ORDER_END';

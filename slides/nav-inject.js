@@ -551,6 +551,10 @@ const SLIDE_ORDER = [
   { file: 'opc-15.html',                     title: '长尾与选型', tr: 'en ko', rt: 'pm build' },
   { file: 'opc-final.html',                  title: '新创业公式', tr: 'en ko', rt: 'pm build' },
 // SEO_GEO_ORDER_BEGIN — node tools/sync-seo-nav.mjs
+  {"file":"seo-basics-tdk.html","title":"基础 01 · 网页的 TDK 门牌怎么写"},
+  {"file":"seo-basics-onpage.html","title":"基础 02 · 给网页做四项站内装修"},
+  {"file":"seo-basics-technical.html","title":"基础 03 · 把网站水电基建检查一遍"},
+  {"file":"seo-basics-content-geo.html","title":"基础 04 · 从选词与实测走到 GEO"},
   {"file":"seo-1.html","title":"课程站怎样被读到","tr":"en ko"},
   {"file":"seo-intent.html","title":"小站选题与付费需求"},
   {"file":"seo-2.html","title":"企业培训站怎么拆页","tr":"en ko"},

@@ -392,5 +392,81 @@
     "bytes": 89166,
     "alt": "品牌通过平台内容触达，并以自有站点保留可控承接",
     "regenerated": false
+  },
+  {
+    "key": "F-01",
+    "article_id": "user-foundation-draft",
+    "source_url": null,
+    "path": "slides/images/seo-geo/foundations/tdk-doorplate.png",
+    "sha256": "02786f8777790e79c15a084d44a31efee4050f82ac1069d7f3da099a3315cffd",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1505592,
+    "alt": "小狗给网站小店挂上 Title 与 Description 门牌，Keywords 留在可选备用盒里",
+    "regenerated": false,
+    "newly_generated": true,
+    "generation": {
+      "tool": "built-in image_gen",
+      "request": "Use case: illustration-story. 根据输入参考图创作同系列全新的中文文章正文配图。输入图只作为画风和黄啊码小狗身份参考，不是原图改字。16:9 横版，纯白背景，简洁黑色手绘线稿，大量留白，少量橙红蓝手写批注。小狗橙黄色、奶白脸和肚皮、额头红圆章白字“码”，两只黑色大眼睛必须都完整睁开，动作参与主题。保留原系列质朴清爽的画风，不用小黑人、不眨眼、不闭眼、不要商务海报、不要3D、不要顶端大标题、不要水印。主体占画面约一半，中文短且正确。一间用细黑线勾勒的简易网站小店，小狗站在小凳子上，双爪认真挂一块两层门牌；第一层用黑字写“Title”，第二层用蓝字写“Description”。地上一个很小的备用纸盒写“Keywords”，旁边红字“可选”。小店开门，门牌文字清楚。只表达标题、简介是门牌，keywords仅可选，不要用排名图表，不要承诺搜索第一。",
+      "reference_asset": "A2-03",
+      "qa": "已逐图核对双眼睁开、文字、白底与图意；16:9。"
+    }
+  },
+  {
+    "key": "F-02",
+    "article_id": "user-foundation-draft",
+    "source_url": null,
+    "path": "slides/images/seo-geo/foundations/headings-drawer.png",
+    "sha256": "b125fbd8264f5e142a8a1f1f10751ffdcbf2223730ee7fe919b99010580205e7",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1608049,
+    "alt": "小狗整理 H1、H2、H3 层级抽屉，并给手机图片贴上 alt 标签",
+    "regenerated": false,
+    "newly_generated": true,
+    "generation": {
+      "tool": "built-in image_gen",
+      "request": "Use case: illustration-story. 根据输入参考图创作同系列全新的中文文章正文配图。输入图只作为画风和黄啊码小狗身份参考，不是原图改字。16:9 横版，纯白背景，简洁黑色手绘线稿，大量留白，少量橙红蓝手写批注。小狗橙黄色、奶白脸和肚皮、额头红圆章白字“码”，两只黑色大眼睛必须都完整睁开，动作参与主题。保留原系列质朴清爽的画风，不用小黑人、不眨眼、不闭眼、不要商务海报、不要3D、不要顶端大标题、不要水印。主体占画面约一半，中文短且正确。小狗正在整理一个像文章一样的开放式木抽屉柜，最上层横梁写“H1”，中间两个较小抽屉各写“H2”，下层更小抽屉写“H3”；小狗把一张有小手机实拍轮廓的图片卡放入对应抽屉，图片卡贴着蓝色小标签“alt”。柜子旁几条黑色手绘线表现条理，不要复杂流程图。只表达内容有层级、图片有说明，不要大段字。",
+      "reference_asset": "A2-03",
+      "qa": "已逐图核对双眼睁开、文字、白底与图意；16:9。"
+    }
+  },
+  {
+    "key": "F-03",
+    "article_id": "user-foundation-draft",
+    "source_url": null,
+    "path": "slides/images/seo-geo/foundations/crawl-building.png",
+    "sha256": "f36eb302c3073cb0895e38ab623d9f5d76fdb58f6ce8bb1dd8f466bf3c9e92a6",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1540619,
+    "alt": "小狗检查网站小屋的管线，门外可抓取，旁边有 Sitemap 和 HTTPS 标志",
+    "regenerated": false,
+    "newly_generated": true,
+    "generation": {
+      "tool": "built-in image_gen",
+      "request": "Use case: illustration-story. 根据输入参考图创作同系列全新的中文文章正文配图。输入图只作为画风和黄啊码小狗身份参考，不是原图改字。16:9 横版，纯白背景，简洁黑色手绘线稿，大量留白，少量橙红蓝手写批注。小狗橙黄色、奶白脸和肚皮、额头红圆章白字“码”，两只黑色大眼睛必须都完整睁开，动作参与主题。保留原系列质朴清爽的画风，不用小黑人、不眨眼、不闭眼、不要商务海报、不要3D、不要顶端大标题、不要水印。主体占画面约一半，中文短且正确。一间剖面式极简网站小屋，地下可见几根橙色水电管，屋门打开，小狗两只眼睛睁开，拿着手电筒检查一根连接到门口的管线。门旁一个小路牌写“可抓取”，门边一卷展开的简单户型图写“Sitemap”，屋顶小小的锁标写“HTTPS”。少量三处标签即可，不要把robots画成安全门，不要保证收录。",
+      "reference_asset": "A2-03",
+      "qa": "已逐图核对双眼睁开、文字、白底与图意；16:9。"
+    }
+  },
+  {
+    "key": "F-04",
+    "article_id": "user-foundation-draft",
+    "source_url": null,
+    "path": "slides/images/seo-geo/foundations/evidence-serving.png",
+    "sha256": "f5a43ef54908eb1c78c6f0d6278fa494965e68e48b5253b5180f09c356cd4465",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1266614,
+    "alt": "小狗把问题、实测和出处整理成可核对的材料，递向 AI 对话气泡",
+    "regenerated": false,
+    "newly_generated": true,
+    "generation": {
+      "tool": "built-in image_gen",
+      "request": "Use case: illustration-story. 根据输入参考图创作同系列全新的中文文章正文配图。输入图只作为画风和黄啊码小狗身份参考，不是原图改字。16:9 横版，纯白背景，简洁黑色手绘线稿，大量留白，少量橙红蓝手写批注。小狗橙黄色、奶白脸和肚皮、额头红圆章白字“码”，两只黑色大眼睛必须都完整睁开，动作参与主题。保留原系列质朴清爽的画风，不用小黑人、不眨眼、不闭眼、不要商务海报、不要3D、不要顶端大标题、不要水印。主体占画面约一半，中文短且正确。小狗像认真经营小店的店员，把有三格的托盘递给一个朴素的对话气泡，托盘上的三张小卡片分别用清楚黑字写“问题”“实测”“出处”；气泡内只有“AI”两个字，旁边蓝色短注“可核对”。一旁小货架有几本薄手册和一个二手手机轮廓，暗示真实经验变成答案素材。不要皇冠、奖杯、第一名或保证推荐。",
+      "reference_asset": "A2-03",
+      "qa": "已逐图核对双眼睁开、文字、白底与图意；16:9。"
+    }
   }
 ]

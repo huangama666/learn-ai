@@ -5,10 +5,15 @@
   "counts": {
     "lessons": 14,
     "knowledge_points": 96,
-    "active_images": 28,
+    "active_images": 32,
     "regenerated_images": 6,
     "lesson_figure_placements": 40,
-    "unique_images_in_lessons": 22
+    "unique_images_in_lessons": 22,
+    "foundation_lessons": 4,
+    "total_lessons": 18,
+    "foundation_topics": 26,
+    "new_foundation_images": 4,
+    "total_figure_placements": 48
   },
   "sources": {
     "A1": {
@@ -2245,5 +2250,26 @@
       "section_anchor": "loop",
       "text_characters": 102
     }
+  ],
+  "foundation_manifest": "foundation-lessons.json",
+  "learning_path": [
+    "slides/seo-basics-tdk.html",
+    "slides/seo-basics-onpage.html",
+    "slides/seo-basics-technical.html",
+    "slides/seo-basics-content-geo.html",
+    "slides/seo-1.html",
+    "slides/seo-intent.html",
+    "slides/seo-2.html",
+    "slides/seo-rendering.html",
+    "slides/seo-structure.html",
+    "slides/seo-performance.html",
+    "slides/seo-5.html",
+    "slides/seo-3.html",
+    "slides/geo-evidence.html",
+    "slides/seo-distribution.html",
+    "slides/geo-evaluation.html",
+    "slides/seo-business.html",
+    "slides/seo-4.html",
+    "slides/seo-final.html"
   ]
 }

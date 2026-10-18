@@ -1773,7 +1773,7 @@ window.COURSE = {
       "id": "p-seo",
       "num": "课后甜点",
       "title": "被搜到：SEO 与 GEO",
-      "desc": "从真实用户问题到可访问页面、专业内容、公开证据、AI 答案评估与业务承接。14 讲结合黄啊码公开文章与原站审计，提供可核对的方法、练习和工作单，不承诺排名或推荐。沿用原有登录阅读策略。",
+      "desc": "先用 4 篇基础认识 TDK、站内优化、技术基建、内容与外链，再用 14 讲案例聊 SEO 到 GEO 的落地过程。每讲穿插相关配图，练习与检查工具按需展开。",
       "color": "#4338ca",
       "group": "extra",
       "routes": [
@@ -1784,6 +1784,47 @@ window.COURSE = {
       ],
       "bonus": true,
       "topics": [
+        {
+          "id": "t-seo-foundations",
+          "title": "先打地基：SEO 基础知识",
+          "desc": "从 TDK、站内装修和技术基建，认识内容、外链与 GEO。",
+          "routes": [
+            "use",
+            "pro",
+            "pm",
+            "build"
+          ],
+          "lessons": [
+            {
+              "file": "seo-basics-tdk.html",
+              "title": "SEO 入门先挂门牌：Title、Description 和 Keywords 怎么写",
+              "desc": "用极客数码的教学例子认识标题、描述和关键词，区分写作参考与排名规则，写出每页自己的门牌。",
+              "tag": "基础",
+              "navTitle": "基础 01 · 网页的 TDK 门牌怎么写"
+            },
+            {
+              "file": "seo-basics-onpage.html",
+              "title": "站内装修四件事：标题层级、网址、图片说明和内链",
+              "desc": "把二手手机验机教程的主次、地址、实拍图和延伸阅读整理清楚，让读者知道自己在哪、下一步去哪。",
+              "tag": "基础",
+              "navTitle": "基础 02 · 给网页做四项站内装修"
+            },
+            {
+              "file": "seo-basics-technical.html",
+              "title": "网站水电基建：速度、手机体验、抓取与结构化数据",
+              "desc": "认清性能指标、移动端、HTTPS、Sitemap、robots、noindex 和 Schema 的职责，再进入后面的技术案例。",
+              "tag": "基础",
+              "navTitle": "基础 03 · 把网站水电基建检查一遍"
+            },
+            {
+              "file": "seo-basics-content-geo.html",
+              "title": "内容和外链怎么做：从二手手机选词，一路接上 GEO",
+              "desc": "用预算、验机、平台对比和商品价格识别真实意图，理解原创经验、自然引用与 AI 答案之间的关系。",
+              "tag": "基础",
+              "navTitle": "基础 04 · 从选词与实测走到 GEO"
+            }
+          ]
+        },
         {
           "id": "t-seo-why",
           "routes": [
